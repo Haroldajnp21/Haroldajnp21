@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Haroldajnp21. I, am a Electronic Engineer
 - 👀 I’m interested in iot and electronic projects with stm32, arduino, and PIC microcontrollers 
-- 🌱 I’m currently learning programming on stm32 develop boards 
+- 🌱 I’m currently learning programming on stm32 develop boards with hal library
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
