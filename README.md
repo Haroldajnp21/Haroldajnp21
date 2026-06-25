@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @Haroldajnp21. I, am a Electronic Engineer
-- 👀 I’m interested in iot and electronic projects with stm32, arduino, and PIC microcontrollers 
-- 🌱 I’m currently learning programming on stm32 develop boards with hal library
-- 💞️ I’m looking to collaborate on AI
-- 📫 How to reach me ...
-
-<!---
-Haroldajnp21/Haroldajnp21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#Soy un Ingeniero Electrónico enfocado en IoT & Sistemas Embebidos 👋
+Especializado en el diseño, desarrollo e integración de **Sistemas Embebidos Hardware/Firmware** y su interconexión con el ecosistema de **Aplicaciones Móviles**. Mi enfoque principal radica en crear soluciones IoT eficientes, robustas y de baja latencia, cubriendo desde la manipulación directa de registros de hardware hasta arquitecturas móviles escalables.
+## 🛠️ Stack Tecnológico
+*   **Firmware & Microcontroladores:** C/C++, FreeRTOS, STM32 (Ecosistema CubeIDE), ESP32 (ESP-IDF/PlatformIO), Arduino, Raspberry Pi Pico, Chip de la marca Microchip/ Single Board Computers.
